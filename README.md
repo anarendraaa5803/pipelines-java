@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/anarendraaa5803/demo%20pipeline%20project/_apis/build/status/anarendraaa5803.pipelines-java?branchName=main)](https://dev.azure.com/anarendraaa5803/demo%20pipeline%20project/_build/latest?definitionId=2&branchName=main)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
